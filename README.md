@@ -9,7 +9,7 @@ Have something to add or change? Open a [pull request](https://github.com/r-tran
 - [dodgr](https://github.com/ATFutures/dodgr) - for routing on osm networks
 - [stplanr](https://github.com/ropensci/stplanr) - for mapping origins and destinations
 - [gtfsr](https://github.com/ropensci/gtfsr) - for reading, validation, and mapping transit data
-- [bikedata](https://github.com/ropensci/ropensci/bikedata) - for etl and analysis on bikeshare data
+- [bikedata](https://github.com/ropensci/bikedata) - for etl and analysis on bikeshare data
 
 # projects
 
