@@ -10,9 +10,14 @@ Have something to add or change? Open a [pull request](https://github.com/r-tran
 - [stplanr](https://github.com/ropensci/stplanr) - for mapping origins and destinations
 - [gtfsr](https://github.com/ropensci/gtfsr) - for reading, validation, and mapping transit data
 - [bikedata](https://github.com/ropensci/bikedata) - for etl and analysis on bikeshare data
+
+## tidytransit packages
+- [tidytransit](https://github.com/r-transit/tidytransit) - for installing the following tools for transit data:
 - [trread](https://github.com/r-transit/trread) - for reading GTFS data in R
 - [bustt](https://github.com/r-transit/bustt) - for calculating headways and transit frequency
 - [gtsf](https://github.com/r-transit/gtsf) - for working with GTFS data as map data
+
+## GTFS feed search
 - [r511](https://github.com/r-transit/r511) - to find current transit data in the bay area
 - [transitfeedr](https://github.com/r-transit/transitfeedr) - to find current transit data around the world
 
