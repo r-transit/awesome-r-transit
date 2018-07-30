@@ -13,9 +13,9 @@ Have something to add or change? Open a [pull request](https://github.com/r-tran
 
 ## tidytransit packages
 - [tidytransit](https://github.com/r-transit/tidytransit) - for installing the following tools for transit data:
-- [trread](https://github.com/r-transit/trread) - for reading GTFS data in R
-- [bustt](https://github.com/r-transit/bustt) - for calculating headways and transit frequency
-- [gtsf](https://github.com/r-transit/gtsf) - for working with GTFS data as map data
+  * [trread](https://github.com/r-transit/trread) - for reading GTFS data in R
+  * [bustt](https://github.com/r-transit/bustt) - for calculating headways and transit frequency
+  * [gtsf](https://github.com/r-transit/gtsf) - for working with GTFS data as map data
 
 ## GTFS feed search
 - [r511](https://github.com/r-transit/r511) - to find current transit data in the bay area
